@@ -1,0 +1,1082 @@
+/*通用*/
+
+
+/*配色方案*/
+
+
+/*浮动*/
+
+.pull-right {
+    float: right !important;
+}
+
+.pull-left {
+    float: left !important;
+}
+
+.mt5 {
+    margin-top: 5px;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.mt15 {
+    margin-top: 15px;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
+
+.mt5-i {
+    margin-top: 5px ! important;
+}
+
+.mt10-i {
+    margin-top: 10px ! important;
+}
+
+.mt15-i {
+    margin-top: 15px ! important;
+}
+
+.mt20-i {
+    margin-top: 20px ! important;
+}
+
+.mb5 {
+    margin-bottom: 5px;
+}
+
+.mb10 {
+    margin-bottom: 10px;
+}
+
+.mb15 {
+    margin-bottom: 15px;
+}
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
+.mb5-i {
+    margin-bottom: 5px ! important;
+}
+
+.mb10-i {
+    margin-bottom: 10px ! important;
+}
+
+.mb15-i {
+    margin-bottom: 15px ! important;
+}
+
+.mb20-i {
+    margin-bottom: 20px ! important;
+}
+
+.ml5 {
+    margin-left: 5px;
+}
+
+.ml10 {
+    margin-left: 10px;
+}
+
+.ml15 {
+    margin-left: 15px;
+}
+
+.ml20 {
+    margin-left: 20px;
+}
+
+.ml50 {
+    margin-left: 50px;
+}
+
+.ml5-i {
+    margin-left: 5px ! important;
+}
+
+.ml10-i {
+    margin-left: 10px ! important;
+}
+
+.ml15-i {
+    margin-left: 15px ! important;
+}
+
+.ml20-i {
+    margin-left: 20px ! important;
+}
+
+.mr5 {
+    margin-right: 5px;
+}
+
+.mr10 {
+    margin-right: 10px;
+}
+
+.mr15 {
+    margin-right: 15px;
+}
+
+.mr20 {
+    margin-right: 20px;
+}
+
+.mr5-i {
+    margin-right: 5px ! important;
+}
+
+.mr10-i {
+    margin-right: 10px ! important;
+}
+
+.mr15-i {
+    margin-right: 15px ! important;
+}
+
+.mr20-i {
+    margin-right: 20px ! important;
+}
+
+.pt5 {
+    padding-top: 5px;
+}
+
+.pt10 {
+    padding-top: 10px;
+}
+
+.pt15 {
+    padding-top: 15px;
+}
+
+.pt20 {
+    padding-top: 20px;
+}
+
+.pt5-i {
+    padding-top: 5px ! important;
+}
+
+.pt10-i {
+    padding-top: 10px ! important;
+}
+
+.pt15-i {
+    padding-top: 15px ! important;
+}
+
+.pt20-i {
+    padding-top: 20px ! important;
+}
+
+.pb5 {
+    padding-bottom: 5px;
+}
+
+.pb10 {
+    padding-bottom: 10px;
+}
+
+.pb15 {
+    padding-bottom: 15px;
+}
+
+.pb20 {
+    padding-bottom: 20px;
+}
+
+.pb5-i {
+    padding-bottom: 5px ! important;
+}
+
+.pb10-i {
+    padding-bottom: 10px ! important;
+}
+
+.pb15-i {
+    padding-bottom: 15px ! important;
+}
+
+.pb20-i {
+    padding-bottom: 20px ! important;
+}
+
+.pr5 {
+    padding-right: 5px;
+}
+
+.pr10 {
+    padding-right: 10px;
+}
+
+.pr15 {
+    padding-right: 15px;
+}
+
+.pr20 {
+    padding-right: 20px;
+}
+
+.pr5-i {
+    padding-right: 5px ! important;
+}
+
+.pr10-i {
+    padding-right: 10px ! important;
+}
+
+.pr15-i {
+    padding-right: 15px ! important;
+}
+
+.pr20-i {
+    padding-right: 20px ! important;
+}
+
+.pl5 {
+    padding-left: 5px;
+}
+
+.pl10 {
+    padding-left: 10px;
+}
+
+.pl15 {
+    padding-left: 15px;
+}
+
+.pl20 {
+    padding-left: 20px;
+}
+
+.pl5-i {
+    padding-left: 5px ! important;
+}
+
+.pl10-i {
+    padding-left: 10px ! important;
+}
+
+.pl15-i {
+    padding-left: 15px ! important;
+}
+
+.pl20-i {
+    padding-left: 20px ! important;
+}
+
+.t-d-l {
+    text-decoration: line-through !important;
+}
+
+.block-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.table-center {
+    display: table;
+}
+
+.text-hide {
+    font: 0/0 a;
+    color: transparent;
+    text-shadow: none;
+    background-color: transparent;
+    border: 0;
+}
+
+.browserupgrade {
+    margin: 0;
+    padding: 5px;
+    background: #cccccc;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.flex {
+    display: -webkit-box;
+    /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box;
+    /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -ms-flexbox;
+    /* TWEENER - IE 10 */
+    display: -webkit-flex;
+    /* NEW - Chrome */
+    display: flex;
+    /* NEW, Spec - Opera 12.1, Firefox 20+ */
+}
+
+.flex-1 {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+
+.fz0 {
+    font-size: 0;
+}
+
+.fz12 {
+    font-size: 12px ! important;
+}
+
+.fz14 {
+    font-size: 14px ! important;
+}
+
+.fz16 {
+    font-size: 16px ! important;
+}
+
+.fz18 {
+    font-size: 18px ! important;
+}
+
+.fz20 {
+    font-size: 20px ! important;
+}
+
+.pre {
+    position: relative ! important;
+}
+
+.c-w {
+    color: #ffffff;
+}
+
+.c-9 {
+    color: #999999;
+}
+
+.c-e6 {
+    color: #e6e6e6;
+}
+
+.c-f {
+    color: #f05468 !important;
+}
+
+.c-2 {
+    color: #222222;
+}
+
+.c-g {
+    color: #39b54a;
+}
+
+.c-6 {
+    color: #666666;
+}
+
+.c-3 {
+    color: #333333;
+}
+
+.c-w-i {
+    color: #ffffff ! important;
+}
+
+.c-b-i {
+    color: #222222 ! important;
+}
+
+.c-h {
+    color: #42a0f8;
+}
+
+.c-h-i {
+    color: #42a0f8 ! important;
+}
+
+.c-9-i {
+    color: #999999 ! important;
+}
+
+.c-6-i {
+    color: #666666 ! important;
+}
+
+.c-3-i {
+    color: #333333 ! important;
+}
+
+.t-c {
+    text-align: center;
+}
+
+.t-c-i {
+    text-align: center ! important;
+}
+
+.t-l {
+    text-align: left;
+}
+
+.t-l-i {
+    text-align: left ! important;
+}
+
+.t-r {
+    text-align: right;
+}
+
+.t-r-i {
+    text-align: right ! important;
+}
+
+.l-c {
+    vertical-align: middle;
+}
+
+.l-c-i {
+    vertical-align: middle ! important;
+}
+
+.bz-bb {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.l-t {
+    vertical-align: top;
+}
+
+.bz-cb {
+    box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+}
+
+.fw-in {
+    font-weight: inherit ! important;
+}
+
+.fw-b {
+    font-weight: bold;
+}
+
+.cs-p {
+    cursor: pointer ! important;
+}
+
+.clearfix:before {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    content: " ";
+    display: table;
+    clear: both;
+}
+
+::selection {
+    background-color: #e6e6e6;
+    text-shadow: none;
+}
+
+.h-bg {
+    background: #f5f5f5;
+}
+
+.color-bor {
+    border: 1px solid #e6e6e6;
+}
+
+::-webkit-input-placeholder {
+    /* WebKit browsers */
+    color: #cccccc;
+}
+
+::-webkit-textarea-placeholder {
+    /* WebKit browsers */
+    color: #cccccc;
+}
+
+:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: #cccccc;
+    opacity: 1;
+}
+
+::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: #cccccc;
+    opacity: 1;
+}
+
+:-ms-input-placeholder {
+    /* Internet Explorer 10+ */
+    color: #cccccc;
+}
+
+.w1000 {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.w1200 {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (-webkit-device-pixel-ratio: 1.5),
+(min-device-pixel-ratio: 1.5) {
+    .border-1px::after {
+        -webkit-transform: scaleY(0.7);
+        transform: scaleY(0.7);
+    }
+}
+
+@media (-webkit-device-pixel-ratio: 2),
+(min-device-pixel-ratio: 2) {
+    .border-1px::after {
+        -webkit-transform: scaleY(0.5);
+        transform: scaleY(0.5);
+    }
+}
+
+@media (-webkit-device-pixel-ratio: 3),
+(min-device-pixel-ratio: 3) {
+    .border-1px::after {
+        -webkit-transform: scaleY(0.33);
+        transform: scaleY(0.33);
+    }
+}
+
+@media (max-width: 1442px) {
+    html {
+        font-size: 225px;
+    }
+}
+
+@media (max-width: 1282px) {
+    html {
+        font-size: 200px;
+    }
+}
+
+@media (max-width: 1026px) {
+    html {
+        font-size: 160px;
+    }
+}
+
+@media (max-width: 962px) {
+    html {
+        font-size: 150px;
+    }
+}
+
+@media (max-width: 952px) {
+    html {
+        font-size: 148.4375px;
+    }
+}
+
+@media (max-width: 902px) {
+    html {
+        font-size: 140.625px;
+    }
+}
+
+@media (max-width: 802px) {
+    html {
+        font-size: 125px;
+    }
+}
+
+@media (max-width: 775px) {
+    html {
+        font-size: 120.78125px;
+    }
+}
+
+@media (max-width: 770px) {
+    html {
+        font-size: 120px;
+    }
+}
+
+@media (max-width: 738px) {
+    html {
+        font-size: 115px;
+    }
+}
+
+@media (max-width: 734px) {
+    html {
+        font-size: 114.375px;
+    }
+}
+
+@media (max-width: 733px) {
+    html {
+        font-size: 114.21875px;
+    }
+}
+
+@media (max-width: 669px) {
+    html {
+        font-size: 104.21875px;
+    }
+}
+
+@media (max-width: 642px) {
+    html {
+        font-size: 100px;
+    }
+}
+
+@media (max-width: 602px) {
+    html {
+        font-size: 93.75px;
+    }
+}
+
+@media (max-width: 570px) {
+    html {
+        font-size: 88.75px;
+    }
+}
+
+@media (max-width: 535px) {
+    html {
+        font-size: 83.28125px;
+    }
+}
+
+@media (max-width: 437px) {
+    html {
+        font-size: 67.96875px;
+    }
+}
+
+@media (max-width: 416px) {
+    html {
+        font-size: 64.6875px;
+    }
+}
+
+@media (max-width: 413px) {
+    html {
+        font-size: 64.21875px;
+    }
+}
+
+@media (max-width: 386px) {
+    html {
+        font-size: 60px;
+    }
+}
+
+@media (max-width: 377px) {
+    html {
+        font-size: 58.59375px;
+    }
+}
+
+@media (max-width: 362px) {
+    html {
+        font-size: 56.25px;
+    }
+}
+
+@media (max-width: 322px) {
+    html {
+        font-size: 50px;
+    }
+}
+
+@font-face {
+    font-family: 'iconfont';
+    /* project id 684709 */
+    src: url('../fonts/iconfont.eot');
+    src: url('../fonts/iconfont.eot?#iefix') format('embedded-opentype'), url('../fonts/iconfont.woff') format('woff'), url('../fonts/iconfont.ttf') format('truetype'), url('../fonts/iconfont.svg#iconfont') format('svg');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon {
+    /* 通过设置 font-size 来改变图标大小 */
+    width: 1em;
+    height: 1em;
+    /* 图标和文字相邻时，垂直对齐 */
+    vertical-align: -0.15em;
+    /* 通过设置 color 来改变 SVG 的颜色/fill */
+    fill: currentColor;
+    /* path 和 stroke 溢出 viewBox 部分在 IE 下会显示
+     normalize.css 中也包含这行 */
+    overflow: hidden;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+html {
+    color: #333;
+}
+
+body {
+    font-family: 'Microsoft YaHei', 'Arial', 'PingFangSC-Regular', 'Helvetica Neue', 'Helvetica', 'PingFang SC', 'Hiragino Sans GB', '\\5FAE\8F6F\96C5\9ED1', 'sans-serif', 'Droid Sans Fallback', 'Helvetica';
+    line-height: 1.5;
+    font-size: 14px;
+    letter-spacing: -0.15px;
+}
+
+.cd-title {
+    border-bottom: 1px solid #ddd;
+    background-color: #fff;
+    font-size: 16px;
+    margin-top: 10px;
+    line-height: 40px;
+    height: 40px!important;
+    margin-bottom: 0px;
+}
+
+.cd-bg-f0f {
+    background: #f0f0f0;
+}
+
+.cd-bg-fff {
+    background: #fff;
+}
+
+.layui-table-view {
+    border-left: none;
+    border-right: none;
+}
+
+.layui-table-view .layui-table {
+    width: 100%;
+}
+
+.layui-table-body {
+    overflow: inherit;
+    overflow-x: auto;
+}
+
+.cd-tab-brief {
+    margin: 20px 0 0;
+}
+
+.cd-tab-brief .layui-tab-title {
+    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.cd-tab-brief .layui-tab-title li {
+    border: 1px solid #e6e6e6;
+    line-height: 36px;
+}
+
+.cd-tab-brief .layui-tab-title li:first-child {
+    border-right: none;
+}
+
+.cd-tab-brief .layui-tab-title .layui-this {
+    background: #108cee;
+    color: #fff;
+}
+
+.cd-tab-brief .layui-tab-title .layui-this:after {
+    display: none;
+}
+
+.cd-tab-brief .layui-tab-item {
+    padding: 0 10px;
+}
+
+.layui-nav-bar-no .layui-nav-tree .layui-nav-bar {
+    width: 0px!important;
+}
+
+.cd-footer {
+    position: fixed;
+    left: 0;
+    z-index: 22;
+    width: 200px;
+    background: #393D49!important;
+    bottom: 0;
+}
+
+.cd-footer .cd-memory {
+    padding: 10px;
+}
+
+.cd-footer .cd-memory .layui-progress-text {
+    color: white;
+}
+
+
+/*下拉多选*/
+
+.layui-form-item select[multiple]+.layui-form-select dd {
+    padding: 0;
+}
+
+.layui-form-item select[multiple]+.layui-form-select .layui-form-checkbox[lay-skin=primary] {
+    margin: 0 !important;
+    display: block;
+    line-height: 36px !important;
+    position: relative;
+    padding-left: 26px;
+}
+
+.layui-form-item select[multiple]+.layui-form-select .layui-form-checkbox[lay-skin=primary] span {
+    line-height: 36px !important;
+    float: none;
+}
+
+.layui-form-item select[multiple]+.layui-form-select .layui-form-checkbox[lay-skin=primary] i {
+    position: absolute;
+    left: 10px;
+    top: 0;
+    margin-top: 9px;
+}
+
+.multiSelect {
+    line-height: normal;
+    height: auto;
+    padding: 4px 10px;
+    overflow: hidden;
+    min-height: 34px;
+    margin-top: -34px;
+    left: 0;
+    z-index: 99;
+    position: relative;
+    background: none;
+}
+
+.multiSelect a {
+    padding: 2px 5px;
+    background: #908e8e;
+    border-radius: 2px;
+    color: #fff;
+    display: block;
+    line-height: 20px;
+    height: 20px;
+    margin: 2px 5px 2px 0;
+    float: left;
+}
+
+.multiSelect a span {
+    float: left;
+}
+
+.multiSelect a i {
+    float: left;
+    display: block;
+    margin: 2px 0 0 2px;
+    border-radius: 2px;
+    width: 8px;
+    height: 8px;
+    background: url(/res/layuicms/images/close.png) no-repeat center;
+    background-size: 65%;
+    padding: 4px;
+}
+
+.multiSelect a i:hover {
+    background-color: #545556;
+}
+
+.yc-select .layui-form-select .layui-input {
+    height: 34px;
+}
+
+.yc-select .multiSelect {
+    white-space: nowrap;
+    overflow: hidden;
+    height: 34px;
+    text-overflow: ellipsis;
+}
+
+.yc-select .multiSelect a {
+    color: #222;
+    background: #fff;
+    margin: 0;
+    padding: 4px;
+}
+
+.yc-select .multiSelect a i {
+    display: none;
+}
+
+.uploader-example {
+    width: 100%!important;
+    box-shadow: none!important;
+    padding: 0!important;
+    margin: 0!important;
+}
+
+.ed-export {
+    margin: 30px auto;
+    text-align: center;
+}
+
+.ed-tab-content {
+    padding: 0;
+}
+
+.layui-form-checked[lay-skin=primary] i {
+    border-color: #42a0f8;
+    background-color: #42a0f8;
+}
+
+.layui-form-checkbox[lay-skin=primary]:hover i {
+    border-color: #42a0f8;
+}
+
+.layui-laypage .layui-laypage-curr .layui-laypage-em {
+    background-color: #42a0f8;
+}
+
+.cd-crumbs {
+    display: inline-block;
+    line-height: 30px;
+}
+
+.cd-crumbs a {
+    display: inline-block;
+    max-width: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.cd-crumbs span {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.layui-layer-lan .layui-layer-title {
+    background: #f0f0f0!important;
+    color: #333!important;
+}
+
+.layui-layer-lan .layui-layer-btn {
+    text-align: center!important;
+}
+
+.layui-layer-lan .layui-layer-btn .layui-layer-btn1 {
+    background: #42a0f8 !important;
+    color: #fff;
+}
+
+.el-dialog__header {
+    background: #fff;
+    padding: 0!important;
+}
+
+.el-dialog__header .el-dialog__title {
+    margin-left: 20px;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.el-dialog__header .el-dialog__headerbtn {
+    top: 12px;
+}
+
+.el-dialog__body {
+    padding: 20px 20px 5px!important;
+}
+
+.cd-size-small .el-dialog {
+    width: 450px;
+}
+
+.cd-size-lag .el-dialog {
+    width: 660px;
+}
+
+.el-form {
+    margin: 0;
+}
+
+.cd-sure-btn {
+    margin-top: 20px;
+    border-top: 1px solid #ddd;
+    position: relative;
+}
+
+.cd-sure-btn .el-button+.el-button {
+    margin-left: 35px;
+}
+
+.cd-sure-btn .el-form-item__content {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.cd-sure-btn:before {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 1px;
+    left: -20px;
+    top: -1px;
+    background: #ddd;
+    position: absolute;
+}
+
+.cd-sure-btn:after {
+    content: "";
+    display: block;
+    width: 20px;
+    height: 1px;
+    right: -20px;
+    top: -1px;
+    background: #ddd;
+    position: absolute;
+}
